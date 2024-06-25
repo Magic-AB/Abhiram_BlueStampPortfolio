@@ -11,7 +11,7 @@ You should comment out all portions of your portfolio that you have not complete
 |:--:|:--:|:--:|:--:|
 | Abhiram B | Lynbrook High School | Data Science | Rising Senior
 
-![Headstone Image](Abhiram_B.heic)
+![Headstone Image](Screenshot 2024-06-25 111325.png)
   
 # Final Milestone
 
