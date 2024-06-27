@@ -4,11 +4,15 @@ The propject that I chose to build is a Smart Mirror. It is a mirror that displa
 
 To build the part of this project that displays the details such as time etc, some of the main components that I needed were a Raspberry Pi and the Magic Mirror OS. Along with that, I needed numerous power cords and HDMI cables to ensure that I could power my device and navigate within the Raspberry Pi. To build the hardware of this project, I needed transparaent acrylic, a 3D printed frame and numerous screws to hold everything in place together and to ensure that the project functioned as a mirror. 
 
+<!---
+
 Challenges:
 
 Takeaways:
 
 Triumphs:
+
+-->
 
 <!--
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
