@@ -47,19 +47,17 @@ For your second milestone, explain what you've worked on since your previous mil
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
 
+-->
+
 # First Milestone
 
+<!---
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-
 -->
+
+My main project is the Smart Mirror. Essentially, this project is similar to a iPad/tab that can be mounted on your wall and can be used as a mirror at the same time. This project would help the user view basic information like the time, weather, their calender events, and many other things catered to the personal interests of the user. For example, if the user is an investor, we could program the mirror to display stock prediction charts using stock predictive algorithms. The different components that were used in reaching the first milestone include the Raspberry Pi itself along with numerous cables that were connected to the Raspberry Pi which aided in the process of viewing what was happening (HDMI Cable) and control the Raspberry Pi (keyboard and mouse cables). Along with that, I also had to use numerous power cords to ensure that all devices that I was using had power. In terms of technical progress, I finished uploading the Magic Mirror OS onto my Raspberry Pi and finished modifying the module configurations. Module Configurations include modifying the alert system, the weather system, the calendar system etc. Some challenges that I faced while trying to attain my first milestone included modifying the alert system. While trying to modify the alert system in order to change the way that an alert is shown on the Magic Mirror, I ended up having a syntax error. I spent a lot of time trying to figure out which line of code had the syntax error because the GitBash only told me one error at a time, due to which the debugging process took longer. After spending about two hours, I decided to wipe the memory of the SD Card and restart everything, due to which I had a small delay in the overall building process. Apart from that, I had no other major issues in terms of trying to modify the module configurations and upload the Magic Mirror OS. Moving forward, I plan on 3D printing a custom frame to put my mirror into and personalize all the modules such as the calender etc. 
 
 # Starter Project
 
