@@ -1,6 +1,6 @@
 # Smart Mirror
 
-The propject that I chose to build is a Smart Mirror. It is a mirror that displays important details that are significant to a person's likes/dislikes, their job, or their overall life. Some details that it displays (but not included to) include time, personal calendar, weather, news, and supportive messages etc. 
+The project that I chose to build is a Smart Mirror. It is a mirror that displays important details that are significant to a person's likes/dislikes, their job, or their overall life. Some details that it displays (but not included to) include time, personal calendar, weather, news, and supportive messages etc. 
 
 To build the part of this project that displays the details such as time etc, some of the main components that I needed were a Raspberry Pi and the Magic Mirror OS. Along with that, I needed numerous power cords and HDMI cables to ensure that I could power my device and navigate within the Raspberry Pi. To build the hardware of this project, I needed transparaent acrylic, a 3D printed frame and numerous screws to hold everything in place together and to ensure that the project functioned as a mirror. 
 
