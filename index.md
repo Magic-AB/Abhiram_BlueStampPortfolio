@@ -23,7 +23,7 @@ Triumphs:
 |:--:|:--:|:--:|:--:|
 | Abhiram B | Lynbrook High School | Data Science | Rising Senior
 
-<img src = "Screenshot 2024-06-25 111325.png" width = "300" height = "400" style="border: 5px solid green">
+<img src = "Screenshot 2024-06-25 111325.png" width = "300" height = "400" style="border: 5px solid light green">
   
 <!---
 
@@ -60,7 +60,7 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GqBjwivqg88?si=dJGUGrJaHk7Bg58I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<img src = "IMG_8863.jpg" width = "600" height = "379" style="border: 5px solid green">
+<img src = "IMG_8863.jpg" width = "600" height = "379" style="border: 5px solid light green">
 
 My main project is the Smart Mirror. Essentially, this project is similar to a iPad/tab that can be mounted on your wall and can be used as a mirror at the same time. This project would help the user view basic information like the time, weather, their calender events, and many other things catered to the personal interests of the user. For example, if the user is an investor, we could program the mirror to display stock prediction charts using stock predictive algorithms. 
 
