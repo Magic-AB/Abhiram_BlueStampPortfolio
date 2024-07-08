@@ -101,13 +101,17 @@ void loop() {
 }
 ```
 
+-->
+
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Raspberry Pi 4 Kit (4GB- PSU, micro SD card, HDMI cable, SD card reader) | The item is used to upload the software onto the Magic Mirror | $119.99 | [Link to the Raspberry Pi 4 Kit]([relative/path/to/new/page](https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=sr_1_6?crid=19B93GVV3GWJZ&dib=eyJ2IjoiMSJ9.OB0X7WOqDHVmnd2AYLgUwrutHruBmYtZFEWv_1XacEI7JVgm7OEBS7IjrEJ6ttYTW-hCyQUyYWIP3QiLiIWzbuXLjja9ptHDL4GkDxCOTIdK-f_2PTwGdqgxrmjdcNw_iYIE4KHxR5ry6tWB4UewwkOum7D0u37EVBWFfjI7YKiZvGgdeGO3725EFkpDggmGUpOWLQZOcFIQEMj_NU_vHRphmrNGxue9RyjOOi-PhXgSCvouKMsdnMM43ET0MpN1u5c6sLoodrCyh2VQl79Z6ULSLpknhNUYnQCRER29mAs.G1Sz2gzkqOcNO-VIO_Genmg6uQo1igVsaJQ_9jGih9w&dib_tag=se&keywords=raspberry%2Bpi%2B4%2Bkit&qid=1715368351&refinements=p_amazon_business_seller%3A15156999011&rnid=15156998011&s=electronics&sprefix=raspberry%2Bpi%2B4%2Bkit%2Celectronics%2C110&sr=1-6&th=1)) |
+
+<!--
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
