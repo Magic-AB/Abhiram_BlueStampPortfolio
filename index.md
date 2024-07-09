@@ -47,6 +47,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CNW7RwygF0U?si=BVh0VHVyGYfxYdC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+<img src = "image.jpg" width = "300" height = "400" style="border: 5px solid yellow">
+
+
 For my second milestone, I finished personalizing each module configuration that was originallly not programmed to show details that are personal to me, for example the calendar displayed US Holidays instead of events related to my life such as birthdays of my friends etc. Along with that, I also finished the schematics for my custom frame which I will be 3D printing and using in order to assemble my main project together. I used OnShape to build the schematics for my custom frame ad sent them over to the 3D printing team. 
 
 Some challenges that I faced while trying to achieve the second milestone include figuring out how to use OnShpae since I never used it before. It took my sometime to get used to working with OnShape, but at the end I was able to figure it out. Another challenge that I had was trying to personalize my calendar while ensuring that all events in my calendar are private and are not publicly accessbile. It took me a long time to figure out how to sync my calendar into the magic mirror while ensuring that all events in my calendar remain private. 
