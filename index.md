@@ -58,6 +58,7 @@ Moving forward, I plan on putting together all the different components of this 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GqBjwivqg88?si=dJGUGrJaHk7Bg58I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+
 <img src = "IMG_8863.jpg" width = "600" height = "379" style="border: 5px solid yellow">
 
 My main project is the Smart Mirror. Essentially, this project is similar to a iPad/tab that can be mounted on your wall and can be used as a mirror at the same time. This project would help the user view basic information like the time, weather, their calender events, and many other things catered to the personal interests of the user. For example, if the user is an investor, we could program the mirror to display stock prediction charts using stock predictive algorithms. 
@@ -71,6 +72,7 @@ Moving forward, I plan on 3D printing a custom frame to put my mirror into and p
 # Starter Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVzV0djj91M?si=bQ9mIbUsQVQZiGL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 <img src = "retro.jpg" width = "300" height = "400" style="border: 5px solid yellow">
