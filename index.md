@@ -75,7 +75,7 @@ Moving forward, I plan on 3D printing a custom frame to put my mirror into and p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVzV0djj91M?si=bQ9mIbUsQVQZiGL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<img src = "Screenshot 2024-06-25 111325.png" width = "300" height = "400" style="border: 5px solid yellow">
+<img src = "retro.jpg" width = "300" height = "400" style="border: 5px solid yellow">
 
 I built a Retro Arcade Gaming Console to perfect my soldering skills. I used the starter kit and soldered the buttons, the speaker, and a battery case that is used to power the device. I chose to build this product because growing up, I loved playing various video anda arcade games, and I was really excited to build this, due to which I chose this project. 
 
