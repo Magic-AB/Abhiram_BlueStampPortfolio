@@ -70,21 +70,7 @@ The different components that were used in reaching the first milestone include 
 
 In terms of technical progress, I finished uploading the Magic Mirror OS onto my Raspberry Pi and finished modifying the module configurations. Module Configurations include modifying the alert system, the weather system, the calendar system etc. Some challenges that I faced while trying to attain my first milestone included modifying the alert system. While trying to modify the alert system in order to change the way that an alert is shown on the Magic Mirror, I ended up having a syntax error. I spent a lot of time trying to figure out which line of code had the syntax error because the GitBash only told me one error at a time, due to which the debugging process took longer. After spending about two hours, I decided to wipe the memory of the SD Card and restart everything, due to which I had a small delay in the overall building process. Apart from that, I had no other major issues in terms of trying to modify the module configurations and upload the Magic Mirror OS. 
 
-Moving forward, I plan on 3D printing a custom frame to put my mirror into and personalize all the modules such as the calendar etc so that all the modules are used to help the user and make his/her life easier. 
-
-# Starter Project
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yVzV0djj91M?si=bQ9mIbUsQVQZiGL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-<img src = "retro.jpg" width = "300" height = "400" style="border: 5px solid yellow">
-
-I built a Retro Arcade Gaming Console to perfect my soldering skills. I used the starter kit and soldered the buttons, the speaker, and a battery case that is used to power the device. I chose to build this product because growing up, I loved playing various video anda arcade games, and I was really excited to build this, due to which I chose this project. 
-
-The Retro Arcade Gaming Console works with a chip that takes in the input from all the buttons and uses this input to change the LED output on the LED screen that has been installed onto the Console. Along with that, there is a speaker that produces music everytime the player does something good during the game, wins the game, or loses the game. A main challenge that I faced while trying to build this project was desoldering two parts that I soldered earlier, but I had to desolder them since instead of soldering them individually, I soldered them together. Soldering was not something that I picked up easily, due to which I spent a lot of time on trying to fix my soldering issue. Apart from that, I had no major issues trying to build this console. 
-
-Moving forward, I will be building a Smart Mirror using Raspberry Pi and hope to add numerous modifications to it and make it useful in more than one way. 
+Moving forward, I plan on 3D printing a custom frame to put my mirror into and personalize all the modules such as the calendar etc so that all the modules are used to help the user and make his/her life easier.  
 
 <!---
 
@@ -124,6 +110,21 @@ Provided below is a bill of materials that contains the name, price, use, and a 
 | Dual Port USB C Wall Charger | The item is used to charge both the Raspberry Pi as well as the Monitor at the same time | $26.99 | <a href="https://www.amazon.com/Nekmit-Charger-Charging-Adapter-MacBook/dp/B0BRMR4HCZ/ref=sr_1_2_sspa?crid=1IQDEN0BAV0OF&dib=eyJ2IjoiMSJ9.FRo7XDBKJV9i1bj7lZg4GpxIoioCtRhKC05OXGYsNlYxv3UqEjfau9uFu0jQLGLOSe4JKum9CeLsc4YUBr7eaGowNmrxo0ZxbaSbMN0KcSrbPGNC1u-kJBDl5yK4fOUEGp-ftJU1zymZMftN8t5Q5AGfa3p0h-hetbjsld7Imvwu3MeOYjdMnmSPuoJTdZR4MmtLdYu6GGqEIR0y8oq1HNLVyFfviQ7TvlzpSTpBA-I.4lXuI3V8BEWXMj4m0eZPelDyq8vk_DmcZD6-oWFsSVA&dib_tag=se&keywords=usb%2Bc%2Bcharger%2B2%2Bport%2Bnekmit&qid=1720471776&sprefix=usb%2Bc%2Bcharger%2B2%2Bport%2Bnekmit%2Caps%2C141&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link to the Dual Port USB C Wall Charger </a> |
 | Miscellaneous | Wires and others items that may additionally be needed in order to construct your mirror which were not accounted for in the Bill of Materials List above | $25 - $50 | No link (depends on each individual build) |
 
+
+
+# Starter Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yVzV0djj91M?si=bQ9mIbUsQVQZiGL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<img src = "retro.jpg" width = "300" height = "400" style="border: 5px solid yellow">
+
+I built a Retro Arcade Gaming Console to perfect my soldering skills. I used the starter kit and soldered the buttons, the speaker, and a battery case that is used to power the device. I chose to build this product because growing up, I loved playing various video anda arcade games, and I was really excited to build this, due to which I chose this project. 
+
+The Retro Arcade Gaming Console works with a chip that takes in the input from all the buttons and uses this input to change the LED output on the LED screen that has been installed onto the Console. Along with that, there is a speaker that produces music everytime the player does something good during the game, wins the game, or loses the game. A main challenge that I faced while trying to build this project was desoldering two parts that I soldered earlier, but I had to desolder them since instead of soldering them individually, I soldered them together. Soldering was not something that I picked up easily, due to which I spent a lot of time on trying to fix my soldering issue. Apart from that, I had no major issues trying to build this console. 
+
+Moving forward, I will be building a Smart Mirror using Raspberry Pi and hope to add numerous modifications to it and make it useful in more than one way.
 <!--
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
