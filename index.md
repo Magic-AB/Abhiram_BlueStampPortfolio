@@ -125,13 +125,3 @@ I built a Retro Arcade Gaming Console to perfect my soldering skills. I used the
 The Retro Arcade Gaming Console works with a chip that takes in the input from all the buttons and uses this input to change the LED output on the LED screen that has been installed onto the Console. Along with that, there is a speaker that produces music everytime the player does something good during the game, wins the game, or loses the game. A main challenge that I faced while trying to build this project was desoldering two parts that I soldered earlier, but I had to desolder them since instead of soldering them individually, I soldered them together. Soldering was not something that I picked up easily, due to which I spent a lot of time on trying to fix my soldering issue. Apart from that, I had no major issues trying to build this console. 
 
 Moving forward, I will be building a Smart Mirror using Raspberry Pi and hope to add numerous modifications to it and make it useful in more than one way.
-<!--
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
-
--->
