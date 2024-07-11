@@ -74,13 +74,23 @@ Moving forward, I plan on 3D printing a custom frame to put my mirror into and p
 
 # Schematics 
 
-Sketches for the bottom half of the frame
+**Sketches for the top half of the frame**
 
-<img src = "Screenshot 2024-07-11 100512.png" width = "600" height = "379" style="border: 5px solid yellow">
+<img src = "Part 1.png" width = "600" height = "379" style="border: 5px solid yellow">
 
-<img src = "Screenshot 2024-07-11 100554.png" width = "600" height = "379" style="border: 5px solid yellow">
+This schematics are for the top half of the monitor. The thicker dent in the part is for the monitor to slide in and the thinner dent in the part is for the acrylic. Since each side of the monitor had different thicknesses that had to be accounted for, there are three different parts that were made using OnShape to ensure that all the different thickness are taken into account. 
+
+**Sketches for the bottom half of the frame**
+
+<img src = "Part 2.png" width = "600" height = "379" style="border: 5px solid yellow">
 
 This schematics are for the bottom half of the monitor. The thicker dent in the part is for the monitor to slide in and the thinner dent in the part is for the acrylic.
+
+**Sketches for the side halves of the frame**
+
+<img src = "Part 3.png" width = "600" height = "379" style="border: 5px solid yellow">
+
+This schematics are for the sides halves of the monitor. The sides had both the thick and thin parts of the monitor and the thicker parts of the monitor had buttons and USB ports that had to be accessible. To ensure that the thicker part is accesible on either side of the monitor, there was a gap that was left based on the measurements of the monitor's sides. 
 
 
 
