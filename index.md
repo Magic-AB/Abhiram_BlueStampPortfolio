@@ -72,13 +72,15 @@ In terms of technical progress, I finished uploading the Magic Mirror OS onto my
 
 Moving forward, I plan on 3D printing a custom frame to put my mirror into and personalize all the modules such as the calendar etc so that all the modules are used to help the user and make his/her life easier.  
 
-<!---
-
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
-<img src = "image.jpg" width = "600" height = "379" style="border: 5px solid yellow">
+Sketches for the bottom half of the frame
+<img src = "Screenshot 2024-07-11 100512.png" width = "600" height = "379" style="border: 5px solid yellow">
+<img src = "Screenshot 2024-07-11 100512.png" width = "600" height = "379" style="border: 5px solid yellow">
 
+
+
+<!---
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
