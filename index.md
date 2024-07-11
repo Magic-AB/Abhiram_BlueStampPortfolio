@@ -75,8 +75,12 @@ Moving forward, I plan on 3D printing a custom frame to put my mirror into and p
 # Schematics 
 
 Sketches for the bottom half of the frame
+
 <img src = "Screenshot 2024-07-11 100512.png" width = "600" height = "379" style="border: 5px solid yellow">
-<img src = "Screenshot 2024-07-11 100512.png" width = "600" height = "379" style="border: 5px solid yellow">
+
+<img src = "Screenshot 2024-07-11 100554.png" width = "600" height = "379" style="border: 5px solid yellow">
+
+This schematics are for the bottom half of the monitor. The thicker dent in the part is for the monitor to slide in and the thinner dent in the part is for the acrylic.
 
 
 
