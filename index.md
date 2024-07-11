@@ -4,10 +4,9 @@ The project that I chose to build is a Smart Mirror. It is a mirror that display
 
 To build the part of this project that displays the details such as time etc, some of the main components that I needed were a Raspberry Pi and the Magic Mirror OS. Along with that, I needed numerous power cords and HDMI cables to ensure that I could power my device and navigate within the Raspberry Pi. To build the hardware of this project, I needed transparaent acrylic, a 3D printed frame and numerous screws to hold everything in place together and to ensure that the project functioned as a mirror. 
 
+The main challenge that I had was trying to design my custom frame that I would use in order to hold my monitor and acrylic together. It took me a lot of time to perfect this design since there are numerous dimensions that I had to take into account. Along with that, I also had to take into account the fact that there are buttons and USB ports that had to be accessible after I assemble the mirror. I also had to figure out how I would connect each part together and design a connector that I would use to connect the other parts together. I worked on this design for around three days and with the help of the instructors here, I was able to finally make the schematics that would hold together my acrylic and monitor. 
+
 <!---
-
-Challenges:
-
 Takeaways:
 
 Triumphs:
