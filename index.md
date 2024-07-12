@@ -93,7 +93,7 @@ These schematics are for the sides halves of the monitor. The sides had both the
 
 **Sketches for the connecting part of the frame**
 
-<img src = "Part 3.png" width = "600" height = "379" style="border: 5px solid yellow">
+<img src = "Screenshot 2024-07-12 084835.png" width = "600" height = "379" style="border: 5px solid yellow">
 
 These schematics are for the part that will be used in order to connect that different parts of the frame in place and make it look like a completed and functional product.
 
