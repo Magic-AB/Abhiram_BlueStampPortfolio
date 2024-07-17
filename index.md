@@ -6,13 +6,6 @@ To build the part of this project that displays the details such as time etc, so
 
 The main challenge that I had was trying to design my custom frame that I would use in order to hold my monitor and acrylic together. It took me a lot of time to perfect this design since there are numerous dimensions that I had to take into account. Along with that, I also had to take into account the fact that there are buttons and USB ports that had to be accessible after I assemble the mirror. I also had to figure out how I would connect each part together and design a connector that I would use to connect the other parts together. I worked on this design for around three days and with the help of the instructors here, I was able to finally make the schematics that would hold together my acrylic and monitor. 
 
-<!---
-Takeaways:
-
-Triumphs:
-
--->
-
 
 ```HTML
 ```
