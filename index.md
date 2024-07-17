@@ -24,20 +24,17 @@ Triumphs:
 
 <img src = "Screenshot 2024-06-25 111325.png" width = "300" height = "400" style="border: 5px solid yellow">
   
-<!---
 
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RoDEi-MmOlE?si=rJoGwZqO6PZsSt9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
--->
+In my second milestone, I finished personalzing all the modules that were pre loaded in the Magic Mirror OS. For my third milestone, I custom designed a frame that I would be using to hold my monitor and acrylic together, therefore completeing the mirror. Along with that I also added some modifications such as an AI Voice Assistant and a Stock Ticker which would allow me to ask my AI Voice Assistant
 
 
 
