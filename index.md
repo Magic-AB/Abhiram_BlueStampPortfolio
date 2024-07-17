@@ -34,7 +34,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
-In my second milestone, I finished personalzing all the modules that were pre loaded in the Magic Mirror OS. For my third milestone, I custom designed a frame that I would be using to hold my monitor and acrylic together, therefore completeing the mirror. Along with that I also added some modifications such as an AI Voice Assistant and a Stock Ticker which would allow me to ask my AI Voice Assistant
+
+In my second milestone, I finished personalzing all the modules that were pre loaded in the Magic Mirror OS. For my third milestone, I custom designed a frame that I would be using to hold my monitor and acrylic together, therefore completeing the mirror. Along with that I also added some modifications such as an AI Voice Assistant and a Stock Ticker which would allow me to ask my AI Voice Assistant anything that I want as opposed to having to look it up on Google and monitor some of my favorite stocks. 
+A challenge that I had to overcome during my time at BlueStamp was learning how to 3D model using OnShape, something that I had not known prior to this program. It took me a lot of time to learn all the different features that are available on OnShape and how I could use them in order to create my schematics for my custom frame. That being said, over time, I was able to master the use of these features and was able to incorporate these features into my design in order to complete the schematics for my custom frame for the Magic Mirror. Along with that, I was also able to learn how to troubleshoot numerous scenarios that one could encounter while having to build a project that has both hardware and software components. 
+While here at BlueStamp, I was able to learn numerous things such as how to solder, how to use UUID to connect calendars that are stored on my iCloud to the Magic Mirror OS so that I could view my scheduled events on my mirror and other important connectivity features such as API etc, and using OnShape to create 3D models which could be used in order to print numerous designs. 
+Moving forward, I want to deepen my knowledge in hardware and learn how to build numerous display models and robots and while doing so, I also want to enruch my knowledge in software by learning other programming langauges as well
 
 
 
