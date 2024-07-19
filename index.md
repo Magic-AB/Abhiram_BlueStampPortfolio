@@ -39,7 +39,7 @@ Moving forward, I want to deepen my knowledge in hardware and learn how to build
 
 
 <img src = "image.jpg" width = "600" height = "379" style="border: 5px solid yellow">
-_Figure 1: _Figure 1: Image of my Magic Mirror OS with the updated and personalized modules
+**Figure 1: Image of my Magic Mirror OS with the updated and personalized modules**
 
 
 For my second milestone, I finished personalizing each module configuration that was originallly not programmed to show details that are personal to me, for example the calendar displayed US Holidays instead of events related to my life such as birthdays of my friends etc. Along with that, I also finished the schematics for my custom frame which I will be 3D printing and using in order to assemble my main project together. I used OnShape to build the schematics for my custom frame ad sent them over to the 3D printing team. 
@@ -55,7 +55,7 @@ Moving forward, I plan on putting together all the different components of this 
 
 
 <img src = "IMG_8863.jpg" width = "600" height = "379" style="border: 5px solid yellow">
-*Figure 2: Image of my initialized Magic Mirror OS*
+**Figure 2: Image of my initialized Magic Mirror OS**
 
 My main project is the Smart Mirror. Essentially, this project is similar to a iPad/tab that can be mounted on your wall and can be used as a mirror at the same time. This project would help the user view basic information like the time, weather, their calender events, and many other things catered to the personal interests of the user. For example, if the user is an investor, we could program the mirror to display stock prediction charts using stock predictive algorithms. 
 
@@ -88,7 +88,7 @@ These schematics are for the sides halves of the monitor. The sides had both the
 
 **Figure 6: Sketches for the connecting part of the frame**
 
-<img src = "Screenshot 2024-07-12 084835.png" width = "500" height = "379" style="border: 5px solid yellow">
+<img src = "Screenshot 2024-07-19 100628.png" width = "500" height = "379" style="border: 5px solid yellow">
 
 These schematics are for the part that will be used in order to connect that different parts of the frame in place and make it look like a completed and functional product.
 
