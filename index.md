@@ -39,7 +39,7 @@ Moving forward, I want to deepen my knowledge in hardware and learn how to build
 
 
 <img src = "image.jpg" width = "600" height = "379" style="border: 5px solid yellow">
-*Figure 1: Image of my Magic Mirror OS with the updated and personalized modules*
+_Figure 1: _Figure 1: Image of my Magic Mirror OS with the updated and personalized modules
 
 
 For my second milestone, I finished personalizing each module configuration that was originallly not programmed to show details that are personal to me, for example the calendar displayed US Holidays instead of events related to my life such as birthdays of my friends etc. Along with that, I also finished the schematics for my custom frame which I will be 3D printing and using in order to assemble my main project together. I used OnShape to build the schematics for my custom frame ad sent them over to the 3D printing team. 
