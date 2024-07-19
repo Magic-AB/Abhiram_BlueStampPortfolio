@@ -18,7 +18,7 @@ The main challenge that I had was trying to design my custom frame that I would 
 <img src = "Screenshot 2024-06-25 111325.png" width = "300" height = "400" style="border: 5px solid yellow">
   
 
-# Final Milestone
+# Final Milestone/Modifications
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoDEi-MmOlE?si=rJoGwZqO6PZsSt9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -39,6 +39,7 @@ Moving forward, I want to deepen my knowledge in hardware and learn how to build
 
 
 <img src = "image.jpg" width = "600" height = "379" style="border: 5px solid yellow">
+*Figure 1: Image of my Magic Mirror OS with the updated and personalized modules*
 
 
 For my second milestone, I finished personalizing each module configuration that was originallly not programmed to show details that are personal to me, for example the calendar displayed US Holidays instead of events related to my life such as birthdays of my friends etc. Along with that, I also finished the schematics for my custom frame which I will be 3D printing and using in order to assemble my main project together. I used OnShape to build the schematics for my custom frame ad sent them over to the 3D printing team. 
@@ -54,6 +55,7 @@ Moving forward, I plan on putting together all the different components of this 
 
 
 <img src = "IMG_8863.jpg" width = "600" height = "379" style="border: 5px solid yellow">
+*Figure 2: Image of my initialized Magic Mirror OS*
 
 My main project is the Smart Mirror. Essentially, this project is similar to a iPad/tab that can be mounted on your wall and can be used as a mirror at the same time. This project would help the user view basic information like the time, weather, their calender events, and many other things catered to the personal interests of the user. For example, if the user is an investor, we could program the mirror to display stock prediction charts using stock predictive algorithms. 
 
@@ -65,25 +67,26 @@ Moving forward, I plan on 3D printing a custom frame to put my mirror into and p
 
 # Schematics 
 
-**Sketches for the top half of the frame**
+**Figure 3: Sketches for the top half of the frame**
 
 <img src = "Part 1.png" width = "600" height = "379" style="border: 5px solid yellow">
 
+
 These schematics are for the top half of the monitor. The thicker dent in the part is for the monitor to slide in and the thinner dent in the part is for the acrylic. Since each side of the monitor had different thicknesses that had to be accounted for, there are three different parts that were made using OnShape to ensure that all the different thickness are taken into account. 
 
-**Sketches for the bottom half of the frame**
+**Figure 4: Sketches for the bottom half of the frame**
 
 <img src = "Part 2.png" width = "600" height = "379" style="border: 5px solid yellow">
 
 These schematics are for the bottom half of the monitor. The thicker dent in the part is for the monitor to slide in and the thinner dent in the part is for the acrylic.
 
-**Sketches for the side halves of the frame**
+**Figure 5: Sketches for the side halves of the frame**
 
 <img src = "Part 3.png" width = "600" height = "379" style="border: 5px solid yellow">
 
 These schematics are for the sides halves of the monitor. The sides had both the thick and thin parts of the monitor and the thicker parts of the monitor had buttons and USB ports that had to be accessible. To ensure that the thicker part is accesible on either side of the monitor, there was a gap that was left based on the measurements of the monitor's sides.
 
-**Sketches for the connecting part of the frame**
+**Figure 6: Sketches for the connecting part of the frame**
 
 <img src = "Screenshot 2024-07-12 084835.png" width = "500" height = "379" style="border: 5px solid yellow">
 
